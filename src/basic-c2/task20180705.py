@@ -8,7 +8,7 @@ beer_c = 2
 otumami_c = 1
 yakitori_c = 2
 
-#焼き鳥の割引数
+#焼き鳥の割引率
 rate = 0.2
 
 #ポイントカードから引く料金
